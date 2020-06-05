@@ -6,4 +6,4 @@ The geographical location of Vancouver and heavy rainfall in the region makes it
 The goal of this project is to determine the optimal locations of disaster support centres in Vancouver in order to maximize the assistance to the affected community.
 
 
-Please see the report for more details.
+Please see the report(FinalReport_Super.pdf) for more details.
